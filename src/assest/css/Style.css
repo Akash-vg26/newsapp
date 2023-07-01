@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+.background{
+    background: linear-gradient(to right, #66ffff 0%, #ccffcc 67%);
+    color: black;
+}
+.sticky{
+    position:sticky;
+}
+.mybtn:hover{
+    background-color: red;
+}
